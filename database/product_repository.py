@@ -58,3 +58,5 @@ def insert_product(cur, product: Product):
     ))
     cur.connection.commit()
 
+
+
